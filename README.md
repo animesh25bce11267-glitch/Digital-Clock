@@ -55,7 +55,7 @@ python clock.py
 # Project Structure
 digital-clock-python/
 │
-└── clock.py
+clock.py
 
 # Tech Stack
 
