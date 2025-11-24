@@ -6,9 +6,9 @@ A modern aesthetic digital clock built using Python and Tkinter.
 
 This is a simple and beautifully designed Digital Clock Application built using Python and the Tkinter GUI library.
 The clock displays:
--Current Time (HH:MM:SS AM/PM)
--Current Day
--Current Date
+-Current Time (HH:MM:SS AM/PM) /n
+-Current Day /n
+-Current Date /n
 
 The UI is made with a modern dark theme & neon aesthetic.
 
