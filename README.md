@@ -1,7 +1,7 @@
 # Digital-Clock
 A modern aesthetic digital clock built using Python and Tkinter.
 
-<img width="627" height="415" alt="image" src="https://github.com/user-attachments/assets/c2a8883a-790c-484f-98b2-faae50f8dff8" />
+<img width="617" height="365" alt="image" src="https://github.com/user-attachments/assets/83d3e3cc-ba28-499d-a5eb-159c6c58c759" />
 
 
 # Aesthetic Digital Clock (Python + Tkinter)
