@@ -2,16 +2,13 @@
 A modern aesthetic digital clock built using Python and Tkinter.
 
 
-Aesthetic Digital Clock (Python + Tkinter)
+# Aesthetic Digital Clock (Python + Tkinter)
 
 This is a simple and beautifully designed Digital Clock Application built using Python and the Tkinter GUI library.
 The clock displays:
-
-Current Time (HH:MM:SS AM/PM)
-
-Current Day
-
-Current Date
+-Current Time (HH:MM:SS AM/PM)
+-Current Day
+-Current Date
 
 The UI is made with a modern dark theme & neon aesthetic.
 
